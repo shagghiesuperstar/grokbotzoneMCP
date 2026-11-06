@@ -1,0 +1,20 @@
+{
+  "name": "grokbot-zone",
+  "version": "1.0.0",
+  "description": "Search, browse, and list public Grok bots on grokbot.zone over HTTPS MCP. Read tools need no account.",
+  "author": {
+    "name": "Shagghie Superstar",
+    "url": "https://github.com/shagghiesuperstar"
+  },
+  "homepage": "https://grokbot.zone/",
+  "repository": "https://github.com/shagghiesuperstar/grokbotzoneMCP",
+  "license": "MIT",
+  "keywords": [
+    "grokbot",
+    "grok-bot",
+    "directory",
+    "mcp",
+    "grokbot.zone",
+    "templates"
+  ]
+}

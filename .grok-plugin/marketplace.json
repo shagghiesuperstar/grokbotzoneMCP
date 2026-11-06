@@ -1,0 +1,34 @@
+{
+  "name": "GrokBot Zone",
+  "description": "Marketplace for the grokbot.zone directory MCP plugin. Search and list public Grok bot listings over HTTPS.",
+  "owner": {
+    "name": "Shagghie Superstar",
+    "url": "https://github.com/shagghiesuperstar"
+  },
+  "plugins": [
+    {
+      "name": "grokbot-zone",
+      "description": "Search, browse, and list public Grok bots on grokbot.zone over HTTPS MCP. Read tools need no account.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "source": {
+        "type": "local",
+        "path": "."
+      },
+      "homepage": "https://grokbot.zone/",
+      "tags": [
+        "grokbot",
+        "directory",
+        "mcp",
+        "templates"
+      ],
+      "keywords": [
+        "grokbot",
+        "grok-bot",
+        "grokbot.zone",
+        "mcp",
+        "directory"
+      ]
+    }
+  ]
+}

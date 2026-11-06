@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "grokbot-zone": {
+      "type": "http",
+      "url": "https://grokbot.zone/mcp"
+    }
+  }
+}
